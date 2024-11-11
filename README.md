@@ -19,6 +19,7 @@ The application works perfectly well, no bugs.
 HTML, CSS , React JS, GIT, json - server
 
 ## Live Server
+https://theplantsy.netlify.app/
 
 ## Support and contact details
 email :: Hamzathehamzah@gmail.com
